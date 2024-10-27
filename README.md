@@ -2,5 +2,5 @@
 Repository for CSD 380 DevOps Assignments
 
 ## Contributors
-- Instructor: Dr. Jane Doe
+- Instructor: Professor Sampson
 - Student: Joe Huffer
